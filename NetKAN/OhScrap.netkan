@@ -3,11 +3,12 @@
     "identifier"   : "OhScrap",
     "name"         : "Oh Scrap!",
     "abstract"     : "A ScrapYard based Part Failure and Reliability Mod",
-    "$kref"        : "#/ckan/github/severedsolo/OhScrap",
+    "author"       : [ "severedsolo", "zer0kerbal" ],
+    "$kref"        : "#/ckan/github/zer0kerbal/OhScrap",
     "$vref"        : "#/ckan/ksp-avc",
     "license"      : "MIT",
     "resources" : {
-        "homepage" : "https://forum.kerbalspaceprogram.com/index.php?/topic/160854-*"
+        "homepage" : "https://forum.kerbalspaceprogram.com/index.php?/topic/192360-*"
     },
     "tags": [
         "plugin"
